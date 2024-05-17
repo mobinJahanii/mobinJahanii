@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Share sync<br>🌱 I’m currently learning React<br>💬 Ask me about Javascript Css Html nodejs
+🔭 I’m currently working on Arduino Transistor Controller<br>🌱 I’m currently learning React<br>💬 Ask me about Javascript Css Html nodejs
 
 
 ## 🌐 Socials:
